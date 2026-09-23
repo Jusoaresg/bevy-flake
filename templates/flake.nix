@@ -1,5 +1,5 @@
 {
-  description = "Personal flake for bevy engine";
+  description = "Flake Bevy Engine";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
